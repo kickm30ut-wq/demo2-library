@@ -1,0 +1,8 @@
+{
+  "name": "Abhishek Library",
+  "description": "A premium library seat booking management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
